@@ -58,34 +58,6 @@ holerite_generator/
 
 ---
 
-## 🚀 Instalação
-
-Para rodar o projeto localmente:
-
-### 1️⃣ Clone o repositório
-
-```bash
-git clone https://github.com/Rafa-s-s/Gerador-de-Holerites.git
-cd Gerador-de-Holerites
-```
-
-### 2️⃣ Crie um ambiente virtual e instale as dependências
-
-```bash
-python -m venv venv
-source venv/bin/activate  # Linux/macOS
-venv\Scripts\activate  # Windows
-pip install -r requirements.txt
-```
-
-### 3️⃣ Execute o programa
-
-```bash
-python src/main.py
-```
-
----
-
 ## 📃 Licença
 
 Este projeto está licenciado sob a **MIT License** – veja o arquivo [LICENSE](LICENSE) para mais detalhes.
