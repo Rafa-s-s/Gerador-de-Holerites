@@ -65,8 +65,8 @@ Para rodar o projeto localmente:
 ### 1️⃣ Clone o repositório
 
 ```bash
-git clone https://github.com/Rafa-s-s/seu-repositorio.git
-cd seu-repositorio
+git clone https://github.com/Rafa-s-s/Gerador-de-Holerites.git
+cd Gerador-de-Holerites
 ```
 
 ### 2️⃣ Crie um ambiente virtual e instale as dependências
