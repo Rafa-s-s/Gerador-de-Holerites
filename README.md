@@ -60,7 +60,7 @@ holerite_generator/
 
 ## 📃 Licença
 
-Este projeto está licenciado sob a **MIT License** – veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+Este projeto está licenciado sob a **MIT License** – veja o arquivo [LICENSE]([LICENSE](https://github.com/Rafa-s-s/Gerador-de-Holerites/blob/main/LICENSE.md)) para mais detalhes.
 
 ---
 
